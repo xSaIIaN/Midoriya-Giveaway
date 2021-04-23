@@ -1,0 +1,16 @@
+{
+    "token": "",
+    "owners": [""],
+    "PREFIX": "",
+    "color": "",
+    "botname": "Midoriya-Giveaway", 
+    "cooldown": 5,
+    "giveawayRole": "Giveaways",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "botsCanWin": false,
+    "embedColor": "GREEN",
+    "embedColorEnd": "RED",
+    "reaction": "🎉",
+    "giveawayEmoji": "🎉"
+}

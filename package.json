@@ -1,0 +1,40 @@
+{
+    "name": "Midoriya",
+    "version": "1.0.0",
+    "description": "Discord Bot Made By Madnesssik",
+    "main": "Midoriya.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node Midoriya.js"
+    },
+    "targets": [
+        {
+            "target_name": "binding",
+            "sources": [
+                "src/binding.cc"
+            ]
+        }
+    ],
+    "engines": {
+        "node": "15.3.0"
+    },
+    "author": "Madnesssik",
+    "license": "ISC",
+    "dependencies": {
+        "common-tags": "^1.8.0",
+        "discord-giveaways": "^4.4.3",
+        "discord-logs": "^1.9.0",
+        "discord-player": "^3.0.3",
+        "discord.js": "^12.5.1",
+        "discord.js-collector": "^1.8.7",
+        "ffmpeg-static": "^4.3.0",
+        "fs": "^0.0.1-security",
+        "mojangjs": "^2.0.3",
+        "ms": "^2.1.2",
+        "node-opus": "^0.3.3",
+        "old-wio.db": "^4.0.10",
+        "opusscript": "^0.0.8",
+        "request": "^2.88.2",
+        "tsmlb": "^1.0.0"
+    }
+}

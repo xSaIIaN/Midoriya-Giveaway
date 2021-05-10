@@ -2,7 +2,7 @@
 
 # Midoriya ✨
 
-[![Run on Repl.it](https://repl.it/badge/github/Madnesssik/Midoriya)](https://repl.it/github/Beta-Devs/Midoriya-Logger)
+[![Run on Repl.it](https://repl.it/badge/github/Madnesssik/Midoriya-Logger)](https://repl.it/github/Beta-Devs/Midoriya-Logger)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 >  A Discord Bot with a Giveaway System.
 
